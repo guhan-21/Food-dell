@@ -27,7 +27,7 @@
     border-color: tomato;
 }
 @media (max-width: 900px) {
-    .sidebar {
+    .sidebar-option p {
         display: none;
     }
 }
